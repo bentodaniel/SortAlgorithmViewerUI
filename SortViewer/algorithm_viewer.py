@@ -11,7 +11,7 @@ window_width = 1250
 sides_offset = 50
 array = []
 
-sort_algorithms = ['Bubble Sort', 'Merge Sort']
+sort_algorithms = ['Bubble Sort', 'HeapSort', 'Insertion Sort', 'Merge Sort', 'QuickSort', 'Radix Sort', 'Selection Sort']
 
 # Display the UI functions
 def generate_UI():
@@ -114,7 +114,7 @@ def display_array(array, colors_array):
 
 
 root = tk.Tk()
-root.title('Sorting Algorithm Visualisation')
+root.title('Sorting Algorithm Viewer')
 root.resizable(width=False,height=False)
 
 #frame / base lauout
