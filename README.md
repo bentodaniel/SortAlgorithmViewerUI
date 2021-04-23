@@ -17,7 +17,7 @@ A python program where it is possible to view the sorting algorithms working
 
 - Creates a list with n elements with values in a range 
 
-![](images/1.png)
+![ScreenShot](https://github.com/bentodaniel/SortAlgorithmViewerUI/blob/master/images/1.PNG)
 
 &nbsp;
 &nbsp;
@@ -25,7 +25,7 @@ A python program where it is possible to view the sorting algorithms working
 
  - Chose the algorithm and start it
 
-![](images/2.png)
+![ScreenShot](https://github.com/bentodaniel/SortAlgorithmViewerUI/blob/master/images/2.PNG)
 
 
 &nbsp;
@@ -34,7 +34,7 @@ A python program where it is possible to view the sorting algorithms working
 
  - The algorithm finishes sorting the list
 
-![](images/3.png)
+![ScreenShot](https://github.com/bentodaniel/SortAlgorithmViewerUI/blob/master/images/3.PNG)
 
 
 &nbsp;
